@@ -1,0 +1,52 @@
+/* Основной шрифт тела страницы */
+body {
+    font-size: 24px;
+}
+
+/* Цвет красных абзацев */
+p.red {
+    color: red;
+}
+
+/* Жирный текст */
+p.bold {
+    font-weight: bold;
+}
+
+/* Различные размеры шрифта */
+span.xxsmall {
+    font-size: 10px;
+}
+span.xsmall {
+    font-size: 20px;
+}
+span.small {
+    font-size: 30px;
+}
+span.medium {
+    font-size: 40px;
+}
+span.large {
+    font-size: 50px;
+}
+span.xlarge {
+    font-size: 60px;
+}
+span.xxlarge {
+    font-size: 70px;
+}
+
+/* Зелёный список */
+li.green {
+    color: green;
+}
+
+/* Красный пункт списка */
+li.red {
+    color: red;
+}
+
+/* Голубой пункт списка */
+li.blue {
+    color: blue;
+}
